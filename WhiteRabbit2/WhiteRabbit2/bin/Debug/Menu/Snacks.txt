@@ -1,0 +1,10 @@
+100 "Chips" 10 10
+101 "Crackers" 30 20
+102 "Cheese Sticks" 30 20
+103 "Onion Rings" 30 20
+104 "Nachos" 30 20
+105 "Fish and chips" 30 30
+106 "Nuts" 30 20
+107 "Carrot Sticks with Dressing" 30 20
+108 "Caesar salad" 30 20
+109 "Green Salad with Olives" 30 20

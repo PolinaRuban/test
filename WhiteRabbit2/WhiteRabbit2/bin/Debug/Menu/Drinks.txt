@@ -1,0 +1,10 @@
+300 "Latte" 20 10
+301 "Cappuccino" 20 10
+302 "Espresso" 20 10
+303 "Black tea" 20 10
+304 "Green tea" 20 10
+305 "Herbal tea" 20 10
+306 "Orange juice" 20 10
+307 "Apple juice" 20 10
+308 "Tomato juice" 20 10
+309 "Water" 20 10

@@ -1,0 +1,10 @@
+400 "Braunie" 40 20
+401 "Cupcakes" 40 20
+402 "Vanilla icecream" 40 20
+403 "Chocolate icecream" 40 20
+404 "Strawberry icecream" 40 20
+405 "Pancakes with butter" 40 20
+406 "Cheesecake" 40 20
+407 "Fruit plate" 40 120
+408 "Banana split" 40 20
+409 "Sorbet" 40 20

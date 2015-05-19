@@ -1,0 +1,10 @@
+200 "French fries" 30 30
+201 "Chilly" 30 30
+202 "Mashed potatos" 30 30
+203 "White rise" 30 30
+204 "Wild rise" 30 30
+205 "chicken broccoli casserole" 30 30
+206 "Chicken wings" 30 30
+207 "Grilled beef" 30 30
+208 "Sausages" 30 30
+209 "Chicken Alfredo" 30 30

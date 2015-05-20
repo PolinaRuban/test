@@ -20,7 +20,7 @@ namespace WhiteRabbit2.Migrations
         //If *.txt files are updated you should:
         //Open Package Manger Console
         // Write: update-database (and add-migrations at first if it's necessary)
-        protected override void Seed(WhiteRabbit2.Models.OrderContext context)
+        protected override void Seed(OrderContext context)
         {
             //  This method will be called after migrating to the latest version.
 

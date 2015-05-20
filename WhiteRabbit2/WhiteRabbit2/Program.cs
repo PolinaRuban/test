@@ -16,7 +16,6 @@ namespace WhiteRabbit2
         [STAThread]
         static void Main()
         {
-            //Database.SetInitializer(new MenuInitializer());
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Main());

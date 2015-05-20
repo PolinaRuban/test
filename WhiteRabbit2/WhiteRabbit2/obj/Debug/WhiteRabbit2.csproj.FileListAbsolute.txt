@@ -20,3 +20,27 @@ c:\users\polina\documents\visual studio 2013\Projects\WhiteRabbit2\WhiteRabbit2\
 c:\users\polina\documents\visual studio 2013\Projects\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.CreateNewOrder.resources
 c:\users\polina\documents\visual studio 2013\Projects\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.AddCoursesToOrder.resources
 c:\users\polina\documents\visual studio 2013\Projects\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.CheckForm.resources
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\WhiteRabbit2.exe.config
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.exe
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.pdb
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\Menu\Deserts.txt
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\Menu\Drinks.txt
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\Menu\MainCourses.txt
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\Menu\Snacks.txt
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\WhiteRabbit2.exe
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\WhiteRabbit2.pdb
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\EntityFramework.dll
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\EntityFramework.xml
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.AddCoursesToOrder.resources
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.AllOrders.resources
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.CheckForm.resources
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.CreateNewOrder.resources
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.Main.resources
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.Migrations.Menu.resources
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.Properties.Resources.resources
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\obj\Debug\WhiteRabbit2.csproj.GenerateResource.Cache
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\Database\Database.mdf
+C:\Users\Polina\Documents\GitHub\test\WhiteRabbit2\WhiteRabbit2\bin\Debug\Database\Database_log.ldf

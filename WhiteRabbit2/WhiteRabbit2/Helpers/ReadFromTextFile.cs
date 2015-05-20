@@ -11,7 +11,8 @@ namespace WhiteRabbit2.Helpers
 
         public ReadFromTextFile(string textFile)
         {
-            fileName = Environment.CurrentDirectory + "\\Menu\\" + textFile;
+            String directory = "C:\\Users\\Polina\\Documents\\GitHub\\test\\WhiteRabbit2\\WhiteRabbit2";
+            fileName = directory + "\\Menu\\" + textFile;
         }
 
         /// <summary>

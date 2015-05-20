@@ -11,6 +11,12 @@ namespace WhiteRabbit2.Models
     //You need SqlExpress for working with this database.
     public class OrderContext : DbContext
     {
+        public OrderContext()
+            : base("name=OrderContext")
+        {
+
+        }
+
         public DbSet<Course> Courses { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<MyMenu> MyMenu { get; set; }

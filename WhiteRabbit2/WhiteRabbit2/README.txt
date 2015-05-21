@@ -7,6 +7,6 @@
 
 If something will be wrong, after first steps:
 -open Package Manager Console
--write "update-database" (I hope everything will be ok.) (You will have to see "Run seed method")
+-write "update-database" (I hope everything will be ok.) (You will see "Run seed method")
 
 That's it! Enjoy. Use F5 for running the project.

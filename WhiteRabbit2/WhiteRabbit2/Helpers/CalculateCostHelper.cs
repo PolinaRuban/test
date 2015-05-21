@@ -19,6 +19,23 @@ namespace WhiteRabbit2.Helpers
                 return Enumerable.Sum(times, time => Int32.Parse(time));
             }
         }
+        public static int GetTimeForCookingByOrderId(int orderId)
+        {
+            using (var db = new OrderContext())
+            {
+                var times = db.Courses.Where(x => x.Order.OrderId == orderId).Select(x => x.TimeForCooking);
+                return Enumerable.Sum(times, time => Int32.Parse(time));
+            }
+        }
+
+        public static int GetHoursFromMinutes(int minutes)
+        {
+            if (minutes%60 == 0)
+            {
+                return minutes/60;
+            }
+            return minutes/60 + 1;
+        }
 
         public static double GetTotalPrice(int n)
         {
@@ -27,7 +44,7 @@ namespace WhiteRabbit2.Helpers
             {
                 result += 1000.0 / Fibonacci(i);
             }
-            return result;
+            return Math.Round(result, 2);
 
         }
 

@@ -88,12 +88,13 @@ namespace WhiteRabbit2
             //Total:
             int totalMinutes = CheckTime();
             var minTimeForEating = Helpers.CalculateCostHelper.GetTimeForEatingByOrderId(Int32.Parse(label2.Text));
-
-            if (totalMinutes < minTimeForEating)
+            var timeForCooking = Helpers.CalculateCostHelper.GetTimeForCookingByOrderId(Int32.Parse(label2.Text));
+            var totalMinTime = minTimeForEating + timeForCooking;
+            if (totalMinutes <totalMinTime)
             {
                 if (totalMinutes != -1)
                 {
-                    MessageBox.Show("You are a little lier!");
+                    MessageBox.Show("You are a little lier! Min time is "+ totalMinTime);
                 }
             }
             else

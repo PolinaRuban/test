@@ -18,17 +18,20 @@ namespace WhiteRabbit2
         {
             InitializeComponent();
             listView1.Columns.Add("Title");
-            listView1.Columns.Add("Price");
+            listView1.Columns.Add("Minutes");
             listView1.View = View.Details;
 
             List<Course> courses = Helpers.OrderHelper.GetCoursesById(id);
             listView1.Items.Clear();
             foreach (var course in courses)
             {
-                var item = new ListViewItem(new[] { course.CourseName, course.TimeForCooking, course.TimeForEating });
+                var count = Int32.Parse(course.TimeForCooking) + Int32.Parse(course.TimeForEating);
+                var item = new ListViewItem(new[] { course.CourseName, count.ToString()});
                 listView1.Items.Add(item);
             }
-            label2.Text = totalPrice.ToString(CultureInfo.InvariantCulture);
+            var result =
+                Helpers.CalculateCostHelper.GetTotalPrice(Helpers.CalculateCostHelper.GetHoursFromMinutes(totalPrice));
+            label2.Text = result.ToString();
         }
 
         private void Close(object sender, EventArgs e)
